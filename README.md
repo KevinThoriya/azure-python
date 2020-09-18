@@ -33,7 +33,7 @@ https://console.developers.google.com/apis/dashboard
 
 - Download a json file with all credentials and paste all data of this file into credentials.json file of this project
 
-- make a google spreadsheet for adding data and share that sheet with client_email provided into  credentials.json
+- make a google spreadsheet editable by share that sheet with client_email provided into  credentials.json
 
 - install python requirements
 ```
